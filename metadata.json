@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix QUASAR – Orbital Guardian",
+  "description": "Interactive 3D space debris removal engineering simulator. Design, launch, navigate, and capture hazardous orbital debris around Earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
